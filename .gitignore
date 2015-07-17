@@ -1,3 +1,6 @@
-ScalaExamples/.idea
-ScalaExamples/target
-ScalaExamples/project
+HBaseTables/.idea
+HBaseTables/project
+HBaseTables/target
+SparkCount/.idea
+SparkCount/project
+SparkCount/target
